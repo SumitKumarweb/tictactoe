@@ -50,7 +50,7 @@ function Grid({ numberOfCards }) {
                     )
                 }
                 <button onClick={reset}>Reset Gamer</button>
-            </div>
+           </div>
         </div>
     )
 }
