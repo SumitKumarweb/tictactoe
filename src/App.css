@@ -1,0 +1,51 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+body{
+  background: #000;
+}
+.turnHighlight{
+  color: white;
+  margin-left: 10px;
+}
+.card{
+  height: 100px;
+  width: 100px;
+  background: #ff9999;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4rem;
+  margin: 10px;
+  border: 2px solid black;
+}
+.gird{
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 400px;
+}
+button{
+  margin-left: 10px;
+  border: none;
+  padding: 5px 10px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  background: #4e50ff;
+  color: white;
+}
+.girdwrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.Heading{
+  color: white;
+  font-size: 4rem;
+}
